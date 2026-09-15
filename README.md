@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Adeeb 👋
 
 **First-Year CS & Mathematics Student**  
 Focused on machine learning, problem-solving, and clean code.
@@ -6,10 +6,10 @@ Focused on machine learning, problem-solving, and clean code.
 ---
 
 ### 🔬 About Me
-- 🎓 **Studying:** Computer Science & Mathematics @ [University Name]
-- 🔭 **Currently:** Building Python foundational scripts and learning Git/GitHub workflows
-- 🌱 **Learning Next:** Machine Learning fundamentals, C++, and JavaScript
-- 📐 **Tools:** Python, LaTeX (Overleaf), VS Code, Git
+- 🎓 **Studying:** Computer Science & Mathematics @ Durham University
+- 🔭 **Currently:** Building Python based projects
+- 🌱 **Learning Next:** Machine Learning fundamentals, C++, and JavaScript, Git
+- 📐 **Tools:** Python, LaTeX (Overleaf), VS Code
 
 ---
 
