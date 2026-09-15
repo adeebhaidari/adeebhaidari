@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**adeebhaidari/adeebhaidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**First-Year CS & Mathematics Student**  
+Focused on machine learning, problem-solving, and clean code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 About Me
+- 🎓 **Studying:** Computer Science & Mathematics @ [University Name]
+- 🔭 **Currently:** Building Python foundational scripts and learning Git/GitHub workflows
+- 🌱 **Learning Next:** Machine Learning fundamentals, C++, and JavaScript
+- 📐 **Tools:** Python, LaTeX (Overleaf), VS Code, Git
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+### 📈 GitHub Activity
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **Email:** your.email@example.com
